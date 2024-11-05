@@ -2,6 +2,9 @@
     "pathsToAnalyze": [
         "**/packages/eth-contracts/**/*",
         "**/packages/evm-connector/**/*",
-        "**/packages/on-chain-relayer/**/*"
+        "**/packages/on-chain-relayer/**/*",
+        "!**/mocks/**",
+        "!**/samples/**",
+        "!**/benchmarks/**"
     ]
 }
