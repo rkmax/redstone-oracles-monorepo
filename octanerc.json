@@ -20,7 +20,6 @@
         "**/packages/on-chain-relayer/contracts/custom-integrations/mento/linkedlists/*.sol",
         "**/packages/on-chain-relayer/contracts/custom-integrations/layerbank/*.sol",
         "**/packages/on-chain-relayer/contracts/custom-integrations/fluid/*.sol",
-        "**/packages/on-chain-relayer/contracts/custom-integrations/ethena-balancer-ratio-provider/*.sol",
-        "**/packages/on-chain-relayer/contracts/benchmarks/*.sol"
+        "**/packages/on-chain-relayer/contracts/custom-integrations/ethena-balancer-ratio-provider/*.sol"
     ]
 }
