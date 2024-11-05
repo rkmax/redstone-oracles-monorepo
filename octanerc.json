@@ -1,0 +1,7 @@
+{
+    "pathsToAnalyze": [
+        "**/packages/eth-contracts/**/*",
+        "**/packages/evm-connector/**/*",
+        "**/packages/on-chain-relayer/**/*"
+    ]
+}
